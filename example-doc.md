@@ -29,7 +29,6 @@
 ![first commit](ss4.png)
 
 
-
 ### switch to feature/raiyan before rebase
 1. `git checkout "feature/raiyan"`
 
