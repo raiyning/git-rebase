@@ -22,10 +22,12 @@
 2. make and save a change on markdown file
 3. `git add .`
 4. `git commit -m "[docs] 2nd commit to main"`
+
  ![first commit](ss3.png)
 5. make more changes
 6. `git add .`
 7. `git commit -m "[docs] 3rd commit to main"`
+
 ![first commit](ss4.png)
 
 
