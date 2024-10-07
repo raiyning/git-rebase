@@ -22,18 +22,17 @@
 2. make and save a change on markdown file
 3. `git add .`
 4. `git commit -m "[docs] 2nd commit to main"`
-5. `git add .`
-6. `git commit -m "[docs] 3rd commit to main"`
-
  ![first commit](ss3.png)
-
-### 1 more commit on feature/raiyan before rebase
-1. `git checkout "feature/raiyan"`
-2. Create a commit on feature branch 
-- `git add .`
-- `git commit -m "[docs] raiyans feature branch first commit"`
-
+5. make more changes
+6. `git add .`
+7. `git commit -m "[docs] 3rd commit to main"`
 ![first commit](ss4.png)
+
+
+
+### switch to feature/raiyan before rebase
+1. `git checkout "feature/raiyan"`
+
 
 ## Time to rebase
 - we want to rebase main with the feature/raiyan changes
