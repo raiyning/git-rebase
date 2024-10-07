@@ -24,6 +24,7 @@
 4. `git commit -m "[docs] 2nd commit to main"`
 
  ![first commit](ss3.png)
+
 5. make more changes
 6. `git add .`
 7. `git commit -m "[docs] 3rd commit to main"`
@@ -39,11 +40,14 @@
 - we want to rebase main with the feature/raiyan changes
 1. switch to main `git checkout main`
 2. `git rebase main feature/raiyan`
+
 ![first commit](ss5.png)
 
 ## Resolve conflict
-3. you will now be shown a Head or Tail to settle a conflict between 2 commits 
+3. you will now be shown a Head or Tail to settle a conflict between 2 commits
+
 ![first commit](ss6.png)
+
 4. make changes and then run `git rebase --continue` to finish the rebase step
 5. check your branch and results now
 
