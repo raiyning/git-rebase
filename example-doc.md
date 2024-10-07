@@ -5,6 +5,7 @@
 2. Add files for first commit  
 - `git add .` 
 - `git commit -m "[docs] my first commit initializing repo"`
+
  ![first commit](ss1.png)
 
 ## Create a feature branch with a commit 
