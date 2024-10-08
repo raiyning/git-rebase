@@ -52,4 +52,5 @@
 5. check your branch and results now
 
 ## What if you want to abort?
-1. `git rebase --continue`
+1. whats the opposite of? `git rebase --continue` 
+2. `git rebase --abort`
