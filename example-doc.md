@@ -54,3 +54,5 @@
 ## What if you want to abort?
 1. whats the opposite of? `git rebase --continue` 
 2. `git rebase --abort`
+
+![first commit](ss7.png)
