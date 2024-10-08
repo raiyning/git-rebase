@@ -43,7 +43,12 @@
 
 ![first commit](ss5.png)
 
-## Resolve conflict
+## Create a conflict
+1. 2 branches will edit the same file this time before rebase
+
+![first commit](ss8.png)
+
+## How to resolve a conflict
 3. you will now be shown a Head or Tail to settle a conflict between 2 commits
 
 ![first commit](ss6.png)
